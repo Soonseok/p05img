@@ -13,5 +13,6 @@
 	<br />
 	<br />
 	<a href="/bank">BANK</a>
+	<button onclick="location.href='/abcd'">TEST</button>
 </body>
 </html>
