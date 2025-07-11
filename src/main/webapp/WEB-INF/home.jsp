@@ -9,10 +9,7 @@
 </head>
 <body>
 	<h1>HOME</h1>
-	<a href="/abcd">TEST</a>
-	<br />
-	<br />
-	<a href="/bank">BANK</a>
-	<button onclick="location.href='/abcd'">TEST</button>
+	<button onclick="location.href='/abcd'">KKURA</button>
+	<button onclick="location.href='/bank'">BANK</button>
 </body>
 </html>
